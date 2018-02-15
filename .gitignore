@@ -30,7 +30,7 @@ node_modules
 .idea
 
 /build
-_book
+
 
 # Only apps should have lockfiles
 npm-shrinkwrap.json
