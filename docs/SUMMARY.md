@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Introduction](../README.md)
+* [Enzyme](../README.md)
 * [Guides](guides.md)
   * [Migration from 2.x to 3.x](guides/migration-from-2-to-3.md)
   * [Browserify](guides/browserify.md)
